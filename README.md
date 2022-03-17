@@ -1,1 +1,1 @@
-# tensorf
+# TensoRF
